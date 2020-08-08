@@ -7,6 +7,9 @@ pip install opencv-python
 # Lane line detection using OpenCV
 # Step 1 Loading the Image Frame and defining the Region of Interest
 The purpose of this section is to build a program that can identify lane lines in a picture or a video frame. When we humans drive, we use eyes and common sense to drive. We can easily identify the lanes on the road, and we do the steering based on that. But to do this with machines, it’s a difficult task and that’s when computer vision comes in. We build complex computer vision algorithms in order to teach machines to identify the lane lines.
+
+USE test_image.jpg
+
 # Step 2 Loading this image and converting it into grayscale.
 
 # Step 3 Reduce Noise and Smoothen Image
