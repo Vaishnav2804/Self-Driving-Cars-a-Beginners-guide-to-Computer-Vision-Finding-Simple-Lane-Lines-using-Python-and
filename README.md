@@ -1,4 +1,4 @@
-# Self-Driving-Cars-a-Beginners-guide-to-Computer-Vision-Finding-Simple-Lane-Lines-using-Python
+# Self-Driving-Cars-Simple-Lane-Lines-using-Python
 Essential Computer Vision techniques to identify lane lines on a road.
 # OpenCV Installation
 You can install OpenCV using pip package installer.
